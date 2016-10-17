@@ -40,7 +40,7 @@ Molly Brown:
 
 Michael Hill:
 
-Michael Schutte:
+Michael Schutte: "What's with the Tomato? The Pomodoro Unpacked"
 
 Nick Erhardt:
 
