@@ -2,7 +2,7 @@
 
 ## Name: Amy Kintner
 
-* GitHub Repo Link: https://github.com/akintner/web_guesser
+* GitHub Repo Link:
 
 ## Ann Wolff
 
@@ -46,7 +46,7 @@
 
 ## Kyle Heppenstall
 
-* GitHub Repo Link: https://github.com/kheppenstall/web_guesser
+* GitHub Repo Link:
 
 ## Josh Cohen
 
@@ -54,7 +54,7 @@
 
 ## Laszlo Balogh
 
-* GitHub Repo Link: https://github.com/Laszlo-JFLMTCO/mod2pre_web_guesser
+* GitHub Repo Link:
 
 ## Lucy Conklin
 
@@ -70,7 +70,7 @@
 
 ## Michael Schutte
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/tmikeschu/web_guesser
 
 ## Nick Erhardt
 
@@ -82,4 +82,4 @@
 
 ## Robbie Smith
 
-* GitHub Repo Link: https://github.com/Robbie-Smith/Web-Guesser.git
+* GitHub Repo Link:
